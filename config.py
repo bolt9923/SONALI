@@ -14,9 +14,9 @@ API_HASH = getenv("API_HASH")
 # ------------------------------------------------------
 BOT_TOKEN = getenv("BOT_TOKEN")
 # -------------------------------------------------------
-OWNER_USERNAME = getenv("OWNER_USERNAME","ll_ALPHA_BABY_lll")
+OWNER_USERNAME = getenv("OWNER_USERNAME","its_prime00")
 # --------------------------------------------------------
-BOT_USERNAME = getenv("BOT_USERNAME","Sonali_Music_bot")
+BOT_USERNAME = getenv("BOT_USERNAME","Firemusiic_bot")
 # --------------------------------------------------------
 BOT_NAME = getenv("BOT_NAME")
 # ---------------------------------------------------------
@@ -35,10 +35,10 @@ DURATION_LIMIT_MIN = int(getenv("DURATION_LIMIT", 17000))
 # ----------------------------------------------------------------
 
 # ----------------------------------------------------------------
-LOGGER_ID = int(getenv("LOGGER_ID", -1002141133985))
+LOGGER_ID = int(getenv("LOGGER_ID", -1002594872855))
 # ----------------------------------------------------------------
 # ----------------------------------------------------------------
-OWNER_ID = int(getenv("OWNER_ID", 7403621976))
+OWNER_ID = int(getenv("OWNER_ID", 5487734890))
 # -----------------------------------------------------------------
 # -----------------------------------------------------------------
 
@@ -53,7 +53,7 @@ HEROKU_API_KEY = getenv("HEROKU_API_KEY")
 # ----------------------------------------------------------------
 UPSTREAM_REPO = getenv(
     "UPSTREAM_REPO",
-    "https://github.com/TEAMPURVI/SONALI",
+    "https://github.com/bolt9923/SONALI",
 )
 UPSTREAM_BRANCH = getenv("UPSTREAM_BRANCH", "main")
 GIT_TOKEN = getenv(
@@ -64,8 +64,8 @@ GIT_TOKEN = getenv(
 
 # ------------------------------------------------------------------------
 # -------------------------------------------------------------------------
-SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/PURVI_SUPPORT")
-SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/PURVI_UPDATES")
+SUPPORT_CHANNEL = getenv("SUPPORT_CHANNEL", "https://t.me/+JX6DIGP9q_dlMDE1")
+SUPPORT_CHAT = getenv("SUPPORT_CHAT", "https://t.me/+JX6DIGP9q_dlMDE1")
 # ------------------------------------------------------------------------------
 # ------------------------------------------------------------------------------
 
@@ -131,7 +131,7 @@ confirmer = {}
 # ------------------------------------------------------------------------
 # ------------------------------------------------------------------------
 START_IMG_URL = getenv(
-    "START_IMG_URL", "https://telegra.ph/file/eb31c20889c5fca9e153f.jpg, https://telegra.ph/file/62a4a5c93f78df95a7d61.jpg, https://telegra.ph/file/af1b9fb2c83194a37c44d.jpg"
+    "START_IMG_URL", "https://files.catbox.moe/ms7xee.jpg"
 )
 PING_IMG_URL = getenv(
     "PING_IMG_URL", "https://files.catbox.moe/9cevdg.jpg"
